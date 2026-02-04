@@ -1,0 +1,8 @@
+flask
+flask-cors
+vaderSentiment
+pandas
+numpy
+matplotlib
+beautifulsoup4
+lxml
