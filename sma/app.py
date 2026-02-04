@@ -217,4 +217,6 @@ if __name__ == '__main__':
     print("🚀 Universal Sentiment Analysis Platform")
     print("📊 Server running at http://localhost:5000")
     print("💡 Open your browser and navigate to the URL above")
-    app.run(debug=True, port=5000)
+    if __name__ == "__main__":
+     app.run()
+
